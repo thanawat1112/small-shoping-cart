@@ -18,6 +18,24 @@ const data = {
       price: 7600,
       image: 'https://dc.lnwfile.com/43o2bt.jpg',
     },
+    {
+      id: '4',
+      name: 'Tar21',
+      price: 6600,
+      image: 'https://cf.lnwfile.com/f0pras.jpg',
+    },
+    {
+      id: '5',
+      name: 'G36',
+      price: 4600,
+      image: 'https://cf.lnwfile.com/yl4oal.jpg',
+    },
+    {
+      id: '6',
+      name: 'P90',
+      price: 5600,
+      image: 'https://cf.lnwfile.com/10j7zg.jpg',
+    },
   ],
 };
 export default data;
