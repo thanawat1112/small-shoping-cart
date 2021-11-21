@@ -2,21 +2,21 @@ const data = {
   products: [
     {
       id: '1',
-      name: 'Stawberry',
-      price: 350,
-      image:'https://picsum.photos/id/1080/6858/4574',
+      name: 'M200',
+      price: 12500,
+      image:'https://www.igetweb.com/uploads/7877/filemanager/6fb88e023308f70b6e4fc8995cdd600e_full.jpg',
     },
     {
       id: '2',
-      name: 'Cactus',
-      price: 30,
-      image: 'https://picsum.photos/id/248/3872/2592',
+      name: 'M110',
+      price: 7900,
+      image: 'https://www.igetweb.com/uploads/7877/filemanager/fb31f46b2e65b17e5bcefe241e03d8bc_full.jpg',
     },
     {
       id: '3',
-      name: 'W Shoes',
-      price: 500,
-      image: 'https://picsum.photos/id/102/4320/3240',
+      name: 'L96',
+      price: 7600,
+      image: 'https://dc.lnwfile.com/43o2bt.jpg',
     },
   ],
 };
